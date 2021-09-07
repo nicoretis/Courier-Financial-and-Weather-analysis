@@ -1,4 +1,4 @@
-# Financial and weather analysis of a courier activity
+# Financial and weather analysis of a restaurant courier activity
 
 Jupyter notebook with the data I collected while I was working as a courier connected with weather data analysis.
 
