@@ -19,4 +19,4 @@ And a further jupyter notebook with weather analysis:
       Weather-Analysis-Courier.ipynb --> Jupyter Notebook EDA of different parameters taking into account also daily weather.
 
 
-Those notebook are also in .html format for better visualization into HTLM folder.
+For the visualization of the analysis open the .ipynb files.
